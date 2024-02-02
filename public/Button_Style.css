@@ -1,0 +1,17 @@
+button{
+    background-color: yellow;
+    color: black;
+    padding: 10px 15px;
+    box-shadow: 2px 2px 4px gray;
+    border-radius: 5px;
+    border: 2px solid gray;
+    margin: 10px;
+    font-size: 16px;
+    cursor: pointer;
+}
+button:hover{
+    /* color: var( --e-global-color-1920039 ); */
+    color: rgb(255, 102, 0);
+    transition: transform .5s ease-in-out;
+    transform: scale(1.1);
+}

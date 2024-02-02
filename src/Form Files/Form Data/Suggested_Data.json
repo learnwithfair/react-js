@@ -1,0 +1,32 @@
+[
+    {
+        "firstName": "MD RAHATUL",
+        "lastName": "RABBI",
+        "subjectName": "CSE"
+    },
+    {
+        "firstName": "MD ANISUL",
+        "lastName": "ISLAM",
+        "subjectName": "ICE"
+        
+    },
+    {
+        "firstName": "MD SHAHANUR",
+        "lastName": "RAHMAN",
+        "subjectName": "EEE"
+    },
+    {
+        "firstName": "MD IMRAN",
+        "lastName": "HOSSAIN",
+        "subjectName": "CE"
+    },
+    {
+        "firstName": "MD MANIK",
+        "lastName": "MIA",
+        "subjectName": "BBA"
+    },
+    {
+        "firstName": "MD KHAYRUL",
+        "lastName": "ALOM"
+    }
+]

@@ -1,0 +1,47 @@
+.for_Loop_Main_Title_Style {
+  background-color: purple;
+  padding: 20px 0px;
+  color: yellow;
+  text-transform: uppercase;
+  font-size: 40px;
+  box-shadow: 2px 4px 4px gray;
+  text-align: "center";
+}
+
+.for_Loop_Div_Style {
+  height: 220px;
+  width: 400px;
+  border: 2px gray solid;
+  margin: 20px;
+  background-color: rgb(13, 207, 255);
+  /* display: inline-block; */
+  border-radius: 5px;
+  box-shadow: 2px 5px 7px gray;
+  align-items: left;
+  cursor: pointer;
+  float: left;
+}
+.for_Loop_Title_Style {
+  color: maroon;
+}
+.for_Loop_Desc_Style {
+  text-align: justify;
+  color: #000000;
+  padding: 5px 10px;
+}
+.for_Loop_Footer_Style {
+  color: gray;
+}
+.textAreaStyle {
+  columns: 20;
+  background-color: #f5f5f5;
+  width: 500px;
+  height: 100px;
+}
+.profileImageSizeing {
+  height: 80px;
+  width: 80px;
+  border-radius: 50%;
+  cursor: pointer;
+  border: solid 2px maroon;
+}

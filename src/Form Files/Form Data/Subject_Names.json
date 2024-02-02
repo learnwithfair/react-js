@@ -1,0 +1,36 @@
+[
+
+    {
+        "subjectName" : "CSE"
+    },
+    {
+        "subjectName" : "ETE"
+    },
+    {
+        "subjectName" : "ICE"
+    },
+    {
+        "subjectName" : "EEE"
+    },
+    {
+        "subjectName" : "CE"
+    },
+    {
+        "subjectName" : "HTM"
+    },
+    {
+        "subjectName" : "BBA"
+    },
+    {
+        "subjectName" : "HBS"
+    },
+    {
+        "subjectName" : "CHEMISTRY"
+    },
+    {
+        "subjectName" : "PHYSICS"
+    },
+    {
+        "subjectName" : "MATH"
+    }
+]

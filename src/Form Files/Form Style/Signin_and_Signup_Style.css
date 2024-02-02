@@ -1,0 +1,131 @@
+.signInContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+.formContainer{
+    margin: 100px 0px;
+    background-color: #f1f1f1;
+    padding: 30px;
+    /* display: block; */
+    box-sizing: border-box;
+    box-shadow: 1px 2px 7px gray;
+    border: 2px solid gray ;
+   
+}
+.loginTitle{
+    text-transform: uppercase;
+    font-size: 34px;
+    color: rgb(134, 2, 2);
+    margin: 0px;
+    text-align: center;
+    margin-bottom: -30px;
+}
+.loginTitleMarker{
+    color: rgb(4, 0, 255);
+    color: #0098d4;
+}
+.loginLabel{
+color: #0098d4;
+font-weight: bold;
+font-size: 25px;
+}
+.loginInputFill{
+    height: 18px;
+    width: 71.5%;
+    color:black;
+    font-size: 16px;
+    padding: 8px;
+    border-radius: 5px;
+    border: 2px solid gray;
+}
+
+.buttonPosition{
+   
+    display:flex;
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+
+    
+}
+.loginButton{
+    padding: 10px 15px;
+    font-size: 18px;
+    background-color: #0098d4;
+    color: yellow;
+    font-weight: bold;
+    border-radius: 5px;
+    box-shadow: 1px 3px 5px gray;
+    border: 2px solid gray;
+    margin: 0px 50px;
+    margin-top: 100px;
+    
+}
+.loginButton:hover{
+    color: white;
+    cursor: pointer;
+    transition: transform .5s ease-in-out;
+    transform: scale(1.1);
+    border-radius: 5px;
+    box-shadow: 3px 5px 7px gray;
+}
+
+#signupFirstLastNameID{
+    width: 21.5%;
+}
+.selectItem{
+
+        height: 37px;
+        width: 24%;
+        color:black;
+        font-size: 16px;
+        padding: 8px;
+        border-radius: 5px;
+        border: 2px solid gray;
+}
+.selectItem>option{
+    font-size: 18px;
+    /* padding: 20px 15px; */
+   
+}
+.textArea{
+    width: 98%;
+    height: 100px;
+    text-align: justify;
+    color: #0098d4;
+    font-size: 18px;
+    padding: 10px;
+
+
+}
+
+.goToLogInPage{
+    margin-top: 120px;
+    color: rgb(134, 2, 2);
+    cursor: pointer;
+ 
+}
+
+.datePickerStyle{
+    display: flex;
+}
+#datePickerPosition{
+
+position: relative;
+    background-color: yellow;
+    /* float: right;
+    margin-top: -55px;
+    margin-right: 70px; */
+    width: 21.5%;
+    height: 50px;
+    /* display: inline-flex; */
+    /* align-items: center; */
+    top: -200px;
+    /* bottom: 20px; */
+    margin-top: -900px;
+    margin-bottom: -900px;
+
+
+}
