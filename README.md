@@ -2,7 +2,7 @@
 
 Thanks for visiting my GitHub account!
 
-![](https://styles.redditmedia.com/t5_2su6s/styles/communityIcon_4g1uo0kd87c61.png) **React** is a free and open-source front-end JavaScript library for building user interfaces based on components. It is maintained by Meta and a community of individual developers and companies. React can be used to develop single-page, mobile, or server-rendered applications with frameworks like Next.js
+<img src="https://styles.redditmedia.com/t5_2su6s/styles/communityIcon_4g1uo0kd87c61.png" height="200" width="200" />**React** is a free and open-source front-end JavaScript library for building user interfaces based on components. It is maintained by Meta and a community of individual developers and companies. React can be used to develop single-page, mobile, or server-rendered applications with frameworks like Next.js
 
 ## Source Code (Download)
 
