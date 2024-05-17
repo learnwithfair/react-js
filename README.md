@@ -25,7 +25,7 @@ Thanks for visiting my GitHub account!
 ## How to use the template?
 
 - clone to your local machine
-- npm install
+- npm install --force
 - npm start
 - Or, create and run react app with npx
 
