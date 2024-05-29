@@ -49,6 +49,10 @@ npm start
 | ![features](/images/react-features.jpg) |
 
 
+## Tutorial 
+
+[![Watch the video](https://github.com/learnwithfair/canva-design/blob/main/Thumbnail/react-js-first-part.png)](https://youtube.com/playlist?list=PLXjydF9SaxY4i7GdEqL7bAMhh2t1JihDo&si=c0qZ2UPRx2dvTARJ)
+
 
 
 # Getting Started with Create React App
